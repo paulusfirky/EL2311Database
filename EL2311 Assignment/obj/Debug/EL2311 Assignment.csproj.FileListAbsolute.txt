@@ -1,0 +1,36 @@
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\bin\Debug\EL2311 Assignment.exe.config
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\bin\Debug\EL2311 Assignment.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\bin\Debug\EL2311 Assignment.pdb
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\bin\Debug\EntityFramework.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\bin\Debug\System.Data.SQLite.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\bin\Debug\EntityFramework.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\bin\Debug\System.Data.SQLite.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\obj\Debug\EL2311 Assignment.csprojResolveAssemblyReference.cache
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\obj\Debug\EL2311_Assignment.Form1.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\obj\Debug\EL2311_Assignment.Properties.Resources.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\obj\Debug\EL2311 Assignment.csproj.GenerateResource.Cache
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\obj\Debug\EL2311 Assignment.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\Code\EL2311 Assignment\EL2311 Assignment\obj\Debug\EL2311 Assignment.pdb
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\bin\Debug\EL2311 Assignment.exe.config
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\bin\Debug\EL2311 Assignment.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\bin\Debug\EL2311 Assignment.pdb
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\bin\Debug\EntityFramework.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\bin\Debug\System.Data.SQLite.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\bin\Debug\EntityFramework.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\bin\Debug\System.Data.SQLite.xml
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\obj\Debug\EL2311 Assignment.csprojResolveAssemblyReference.cache
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\obj\Debug\EL2311_Assignment.Form1.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\obj\Debug\EL2311_Assignment.Properties.Resources.resources
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\obj\Debug\EL2311 Assignment.csproj.GenerateResource.Cache
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\obj\Debug\EL2311 Assignment.exe
+C:\Users\paulf\Documents\_University\Year 2\EL2311 - Software Development 2\Assignment\EL2311 Assignment - Paul Fairclough\EL2311 Assignment\EL2311 Assignment\obj\Debug\EL2311 Assignment.pdb
